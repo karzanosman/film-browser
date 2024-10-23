@@ -4,7 +4,7 @@ This is a web application that uses Vite for development and build processes. Fo
 
 ## Demo
 
-Check out the live demo of the application [here](https://film-browser.netlify.app/wishlist).
+Check out the live demo of the application [here](https://film-browser.netlify.app).
 
 ## Prerequisites
 
