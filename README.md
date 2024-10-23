@@ -2,6 +2,10 @@
 
 This is a web application that uses Vite for development and build processes. Follow the instructions below to set up and run the application locally.
 
+## Demo
+
+Check out the live demo of the application [here](https://film-browser.netlify.app/wishlist).
+
 ## Prerequisites
 
 Make sure you have the following installed on your machine:
